@@ -25,7 +25,18 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+### 🤝🏻 &nbsp;Connect with Me
 
+<p align="center">
+<a href="www.linkedin.com/in/bruno-guevara-193357291"><img src="https://img.shields.io/badge/-Bruno%20Guevara%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/u/1/#inbox"><img src="https://img.shields.io/badge/-brunoguevara4.0@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100011316337877"><img src="https://img.shields.io/badge/-@facebock-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+
+-----
+Credits: [Bruno Guevara](https://github.com/Bruno-Guevara)
+
+Last Edited on: 04/01/2024
 
 
 
