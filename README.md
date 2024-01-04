@@ -11,7 +11,26 @@
 🌱 &nbsp;I am on my way to learning more about Web Design and everything related to the backend. My goal is to be a full stack.\
 ✍️ &nbsp;In my free time, I dedicate myself to sports and reading one or another book.\
 💬 &nbsp;Please feel free to contact me for pro bono consulting and volunteering, or just to have an interesting discussion.\
-✉️ &nbsp;You can email me at brunoguevara4.0@gmail.com I will try to respond as soon as I can.\
-📄 &nbsp;Take a look at my resume for more details about me. I'm open to comments and suggestions!\
+✉️ &nbsp;You can email me at brunoguevara4.0@gmail.com I will try to respond as soon as I can.
+
+<img alt="Night Coding" src="https://i.pinimg.com/originals/52/ce/57/52ce57e7e3cbb5a31cc7792180d734d9.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+
+
+
+
+
+
 
 
