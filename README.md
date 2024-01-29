@@ -33,6 +33,11 @@
 <a href="https://www.facebook.com/profile.php?id=100011316337877"><img src="https://img.shields.io/badge/-@facebock-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
     <a href="https://www.instagram.com/bruno_g_va/"><img src="https://img.shields.io/badge/-@Bruno_g_va-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
+<br><br>
+
+## You can see my projects below in my **pines↓↓**
+
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed5160fc-9b80-4c5c-a19f-05fb2b7ae75c/d7vjdnv-57735c63-8c9b-4b12-8155-0ba6ab373a29.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VkNTE2MGZjLTliODAtNGM1Yy1hMTlmLTA1ZmIyYjdhZTc1Y1wvZDd2amRudi01NzczNWM2My04YzliLTRiMTItODE1NS0wYmE2YWIzNzNhMjkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NYkmEuyqjS4X652ak4efh6AjmWEckjS_NYkrFWQXm5c">
 
 -----
 Credits: [Bruno Guevara](https://github.com/Bruno-Guevara)
