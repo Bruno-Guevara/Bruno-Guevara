@@ -30,8 +30,7 @@
 <p align="center">
 <a href="www.linkedin.com/in/bruno-guevara-193357291"><img src="https://img.shields.io/badge/-Bruno%20Guevara%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/u/1/#inbox"><img src="https://img.shields.io/badge/-brunoguevara4.0@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100011316337877"><img src="https://img.shields.io/badge/-@facebock-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-    <a href="https://www.instagram.com/bruno_g_va/"><img src="https://img.shields.io/badge/-@Bruno_g_va-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+
 </p>
 <br><br>
 
